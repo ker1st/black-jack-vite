@@ -1,9 +1,9 @@
-#Black o simplemente 21
+# Black o simplemente 21
 
-##Se desarollo usando el framework de Vite, Javascript, HTML5 y CSS3
+## Se desarollo usando el framework de Vite, Javascript, HTML5 y CSS3
 
-##Para correrlo en el localhost
+## Para correrlo en el localhost
 
-###1. Baja el proyecto y hacer un npm install
+### 1. Baja el proyecto y hacer un npm install
 
-###2. Ejecutar npm run dev
+### 2. Ejecutar npm run dev
